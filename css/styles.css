@@ -1,0 +1,13 @@
+html {
+    background-color: bisque;
+    font-style: italic;
+    font-weight: 200;
+    }
+div {
+    text-align: center;
+    }
+body{
+margin: 0;
+height: 100vh;
+cursor: cell;
+}
